@@ -65,8 +65,10 @@ The Splunk detection rule identifies **multiple failed SSH login attempts** orig
 - SSH service (TCP/22)
 
 📸 **Splunk Detection Rule**
+<img width="798" height="890" alt="splunk detection rule" src="https://github.com/user-attachments/assets/0c223aec-b112-4b5b-8fc5-1b0a6056f6ee" />
 
-📸 **Sample Authentication Logs**
+📸 **splunk query**
+<img width="1244" height="985" alt="Splunk search query" src="https://github.com/user-attachments/assets/96904ddb-a059-48fc-8b90-cf9477095603" />
 
 
 ---
@@ -84,6 +86,9 @@ The SOAR workflow automates the following actions:
 
 📸 **n8n Workflow Canvas**
 
+<img width="1286" height="1003" alt="n8n workflow canvas" src="https://github.com/user-attachments/assets/6533fa7d-12f6-4712-ab1b-792bd7cf15e3" />
+
+<img width="1288" height="1006" alt="webhook payload injestion" src="https://github.com/user-attachments/assets/7a4231fa-e109-4b23-b238-ed1856975115" />
 
 ---
 
@@ -102,6 +107,7 @@ This enrichment validates malicious intent and strengthens confidence in attack 
 
 📸 **AbuseIPDB Enrichment**
 
+<img width="1294" height="1003" alt="abuse ipdb ioc enrichment threat intel" src="https://github.com/user-attachments/assets/3432e707-f8fb-4660-89aa-7467f1a21004" />
 
 ---
 
@@ -120,6 +126,9 @@ The AI is restricted to **professional SOC output** — no generic or conversati
 
 📸 **AI Prompt Configuration**
 
+<img width="1283" height="1003" alt="Ai prompt configuration tier 2 Analyst role" src="https://github.com/user-attachments/assets/36b38dd9-3f89-40de-8268-bf57bf35dd35" />
+
+<img width="1918" height="1008" alt="Ai soc output analysis" src="https://github.com/user-attachments/assets/d66ea2eb-0d6f-49b9-8149-9ec89aeb211a" />
 
 ---
 
@@ -135,6 +144,8 @@ The AI is restricted to **professional SOC output** — no generic or conversati
 
 📸 **MITRE ATT&CK Mapping Output**
 
+<img width="1920" height="1008" alt="NIST MITRE Slack top report" src="https://github.com/user-attachments/assets/31325358-a01a-4e69-9c97-1ca4ee7f4f6d" />
+
 
 ---
 
@@ -147,6 +158,8 @@ This incident aligns with the following **NIST IR phases**:
 - **Eradication** – Credential hardening and brute-force prevention
 - **Recovery** – Monitoring for residual activity
 - **Post-Incident Activity** – Documentation and intelligence sharing
+
+<img width="1920" height="1008" alt="NIST MITRE Slack top report" src="https://github.com/user-attachments/assets/6a676984-fac9-4746-b757-8ae8988fb0ed" />
 
 ---
 
@@ -164,10 +177,12 @@ The final output is a **Tier-2 SOC Incident Report** delivered automatically to 
 - Analyst confidence level
 
 📸 **Slack Report (Top)**
+<img width="1920" height="1008" alt="NIST MITRE Slack top report" src="https://github.com/user-attachments/assets/31395e7f-af79-4dad-88a5-1cc164a0944c" />
 
 
 📸 **Slack Report (Bottom)**
 
+<img width="1920" height="1006" alt="bottom slack report" src="https://github.com/user-attachments/assets/9b303726-4100-46b0-9c5b-ff53c6fa7e1f" />
 
 ---
 
