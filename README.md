@@ -50,6 +50,7 @@ Slack Incident Report
 
 📸 **Architecture Diagram**
 
+<img width="1121" height="750" alt="archetecture diagram" src="https://github.com/user-attachments/assets/ec58154c-fd95-49a1-bad5-d1f8e017530c" />
 
 ---
 
