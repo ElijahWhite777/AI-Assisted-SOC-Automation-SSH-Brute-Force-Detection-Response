@@ -65,7 +65,8 @@ The Splunk detection rule identifies **multiple failed SSH login attempts** orig
 - SSH service (TCP/22)
 
 📸 **Splunk Detection Rule**
-<img width="798" height="890" alt="splunk detection rule" src="https://github.com/user-attachments/assets/0c223aec-b112-4b5b-8fc5-1b0a6056f6ee" />
+<img width="525" height="583" alt="splunk detection rule" src="https://github.com/user-attachments/assets/8e3518d8-bd29-4051-b174-aeb88f675b1c" />
+
 
 📸 **splunk query**
 <img width="1244" height="985" alt="Splunk search query" src="https://github.com/user-attachments/assets/96904ddb-a059-48fc-8b90-cf9477095603" />
